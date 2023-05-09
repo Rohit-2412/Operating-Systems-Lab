@@ -1,0 +1,1 @@
+this is file1.txt used for copying to electric/file2.txt
